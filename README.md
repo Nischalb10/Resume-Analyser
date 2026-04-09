@@ -21,9 +21,7 @@ This repository demonstrates:
 - `main.py`: CLI entrypoint for running the Resume Analyzer agent
 - `agent.py`: OpenAI Agent SDK wrapper, tools, and structured outputs
 - `memory_store.py`: persistent memory storage for past interactions
-- `ARCHITECTURE.md`: architecture explanation and diagram
 - `sample_outputs.md`: sample agent outputs and data format
-- `VIDEO_SCRIPT.md`: script for a demo video explanation
 - `requirements.txt`: Python dependencies
 
 ## Setup
